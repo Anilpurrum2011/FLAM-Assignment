@@ -165,7 +165,7 @@ MIT © Anilpurrum2011 – Feel free to use, modify, and distribute.
 Feel free to reach out for feedback, ideas, or collaboration!
 
 - GitHub: [@Anilpurrum2011](https://github.com/Anilpurrum2011)
-- Email: anilpurrum@gmail.com.com
+- Email: anilpurrum@gmail.com
 - LinkedIn: [anilpurrum](https://www.linkedin.com/in/anilpurrum)
 
 ---
