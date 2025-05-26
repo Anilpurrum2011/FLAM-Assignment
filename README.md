@@ -1,4 +1,4 @@
-# 🚀 React Bottom Sheet with Spring Animations
+#  React Bottom Sheet with Spring Animations
 
 A fully customizable bottom sheet component for React with smooth spring animations and multiple snap points — all built **without third-party animation libraries**. Perfect for mobile and desktop web apps!
 
@@ -10,18 +10,18 @@ A fully customizable bottom sheet component for React with smooth spring animati
 
 ##  Features
 
-- 🎯 Three Snap Points: `closed`, `half`, `open`
-- ⚛️ Built with React Hooks
-- 🌀 Pure JavaScript spring animations (no external libraries!)
-- 📱 Touch & Mouse Drag Support
-- 🖱️ Clickable Button Controls
-- 📜 Independent Scrollable Content
-- 🧩 Fully Customizable Snap Positions
-- 🎨 Mobile-first & Responsive Design
+-  Three Snap Points: `closed`, `half`, `open`
+-  Built with React Hooks
+-  Pure JavaScript spring animations (no external libraries!)
+-  Touch & Mouse Drag Support
+-  Clickable Button Controls
+-  Independent Scrollable Content
+-  Fully Customizable Snap Positions
+-  Mobile-first & Responsive Design
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React** (Create React App)
 - **CSS Modules**
@@ -29,7 +29,7 @@ A fully customizable bottom sheet component for React with smooth spring animati
 
 ---
 
-## 📦 Installation
+##  Installation
 
 Clone the repo and install dependencies:
 
@@ -42,7 +42,7 @@ npm start
 
 ---
 
-## ⚙️ Usage
+##  Usage
 
 ```jsx
 import BottomSheet from './components/BottomSheet';
@@ -62,7 +62,7 @@ function App() {
 
 ---
 
-## 📘 Component Props
+##  Component Props
 
 | Prop             | Type                              | Default   | Description                                 |
 |------------------|-----------------------------------|-----------|---------------------------------------------|
@@ -72,7 +72,7 @@ function App() {
 
 ---
 
-## 🎨 Customization
+##  Customization
 
 ### Modify Snap Points
 
@@ -95,7 +95,7 @@ const springProgress = 1 - Math.pow(1 - progress, 3); // Adjust spring dynamics
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 
 ### Build Production Bundle
 ```bash
@@ -108,7 +108,7 @@ npm run build
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 src/
@@ -124,7 +124,7 @@ src/
 
 ---
 
-## 🧩 Future Enhancements
+##  Future Enhancements
 
 - [ ] Add snapping animations with `requestAnimationFrame`
 - [ ] Keyboard accessibility and focus trap
@@ -134,7 +134,7 @@ src/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome!
 
@@ -149,14 +149,14 @@ git commit -m 'Add some AmazingFeature'
 # Push to the branch
 git push origin feature/AmazingFeature
 
-# Open a pull request 🚀
+
 ```
 
 ---
 
-## 📜 License
+##  License
 
-MIT © [Your Name] – Feel free to use, modify, and distribute.
+MIT © Anilpurrum2011 – Feel free to use, modify, and distribute.
 
 ---
 
@@ -164,11 +164,9 @@ MIT © [Your Name] – Feel free to use, modify, and distribute.
 
 Feel free to reach out for feedback, ideas, or collaboration!
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [@Anilpurrum2011](https://github.com/Anilpurrum2011)
+- Email: anilpurrum@gmail.com.com
+- LinkedIn: [anilpurrum](https://www.linkedin.com/in/anilpurrum)
 
 ---
-
-> Built with ❤️ using React, for developers who care about UI + UX
 
