@@ -34,7 +34,7 @@ A fully customizable bottom sheet component for React with smooth spring animati
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/react-bottom-sheet.git
+git clone https://github.com/Anilpurrum2011/FLAM-Assignment.git
 cd react-bottom-sheet
 npm install
 npm start
@@ -89,8 +89,8 @@ const positions = useMemo(() => ({
 ### Tune Animation
 
 ```js
-const duration = 500; // ms
-const springProgress = 1 - Math.pow(1 - progress, 3); // Adjust spring dynamics
+const duration = 500; 
+const springProgress = 1 - Math.pow(1 - progress, 3); 
 ```
 
 ---
@@ -160,7 +160,7 @@ MIT © Anilpurrum2011 – Feel free to use, modify, and distribute.
 
 ---
 
-## 📬 Contact
+##  Contact
 
 Feel free to reach out for feedback, ideas, or collaboration!
 
